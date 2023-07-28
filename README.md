@@ -1,5 +1,4 @@
-# SimpleReader
-
+# Teste Simples
 Este é um projeto de desafio proposto pela Lynx
 
 ## Descrição
