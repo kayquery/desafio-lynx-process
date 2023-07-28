@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iv9Lwn7EOYBpYGngNFQLhmeHbdXqLAfwQqY2FkETRtpL5xSdzFkIFUnk4/amIZq5CdqKZGsdB+4UK8+/HypLYg==",
+  "dgSpecHash": "hxUdux8Zss1MfpJQ/VUT97KWnKDm4Jmrel4oVlJkSoVBef9WSOgPrhgiH559b15ATqtO/Sm/a2XlruwqiebBsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\desafio-lynx-process.Test.csproj",
+  "projectFilePath": "c:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\desafio-lynx-process.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kayque.souza\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\kayque.souza\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",

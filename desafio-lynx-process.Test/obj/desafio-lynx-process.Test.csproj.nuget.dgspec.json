@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\desafio-lynx-process.Test.csproj": {}
+    "c:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\desafio-lynx-process.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\desafio-lynx-process.Test.csproj": {
+    "c:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\desafio-lynx-process.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\desafio-lynx-process.Test.csproj",
+        "projectUniqueName": "c:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\desafio-lynx-process.Test.csproj",
         "projectName": "desafio-lynx-process.Test",
-        "projectPath": "C:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\desafio-lynx-process.Test.csproj",
+        "projectPath": "c:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\desafio-lynx-process.Test.csproj",
         "packagesPath": "C:\\Users\\kayque.souza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\obj\\",
+        "outputPath": "c:\\Users\\kayque.souza\\OneDrive\\Projetos\\Processe seletivo - Lynx Process\\desafio-lynx-process.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
